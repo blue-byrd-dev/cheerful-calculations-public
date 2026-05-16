@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/og-cheerful-calculations.png" alt="Cheerful Calculations Preview" width="100%" />
+  <img src="./assets/og-image.png" alt="Cheerful Calculations Preview" width="100%" />
 </p>
 
 # Cheerful Calculations
@@ -54,7 +54,10 @@ This repository serves as a public showcase of the project design, branding, and
 ### Homepage
 
 Add screenshots here:
-![Homepage](./public/screenshots/c2-home.png)
+
+```md
+![Homepage](./assets/homepage-preview.png)
+```
 
 ---
 
