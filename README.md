@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="./assets/og-image.png" alt="Cheerful Calculations Preview" width="100%" />
+  <img src="./public/og-cheerful-calculations.png" alt="Cheerful Calculations Preview" width="100%" />
 </p>
 
 # Cheerful Calculations
 
 Modern bookkeeping website for restaurants and small businesses.
-
-Built with React, TypeScript, Vite, and Tailwind CSS.
 
 ---
 
@@ -50,15 +48,20 @@ This repository serves as a public showcase of the project design, branding, and
 ---
 
 ## Screenshots
-
 ### Homepage
+![Home page](./public/screenshots/c2-home.png)
 
-Add screenshots here:
+### About
+![About page](./public/screenshots/c2-about.png)
 
-```md
-![Homepage](./assets/homepage-preview.png)
-```
+### Services
+![About page](./public/screenshots/c2-services.png)
 
+### Packages
+![About page](./public/screenshots/c2-packages.png)
+
+### Resources
+![About page](./public/screenshots/c2-resources.png)
 ---
 
 ## Design & Branding
